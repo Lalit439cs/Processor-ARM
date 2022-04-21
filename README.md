@@ -4,7 +4,8 @@ In Computer Architecture course,designed Microarchitecture for a subset of ARM i
 
 The designs are expressed in VHDL language and then simulated and synthesized. 
  
-## ARM 32 bit-Instruction Set-
+### ARM 32 bit-Instruction Set-
+
 Arithmetic: <add|sub|rsb|adc|sbc|rsc> {cond} {s}
 Logical: <and | orr | eor | bic> {cond} {s}
 Test: <cmp | cmn | teq | tst> {cond}
@@ -17,7 +18,7 @@ cond: <EQ|NE|CS|CC|MI|PL|VS|VC|HI|LS|GE|LT|GT|LE|AL>
 
 Here started with a skeleton design, the hardware is to be built in several stages outlined below, adding some functionality at every stage.
 
-## Stages-
+### Stages-
 **Stage 1: Design and testing of basic modules**
 The module set includes ALU, Register File, Program Memory and Data Memory.
 
