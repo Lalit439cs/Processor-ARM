@@ -4,7 +4,7 @@ In Computer Architecture course,designed Microarchitecture for a subset of ARM i
 
 The designs are expressed in VHDL language and then simulated and synthesized. 
  
-### ARM 32 bit-Instruction Set-
+### ARM 32 bit-Instruction Set-###
 
 Arithmetic: <add|sub|rsb|adc|sbc|rsc> {cond} {s}
 Logical: <and | orr | eor | bic> {cond} {s}
