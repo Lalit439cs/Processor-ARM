@@ -19,6 +19,7 @@ cond: <EQ|NE|CS|CC|MI|PL|VS|VC|HI|LS|GE|LT|GT|LE|AL>
 Here started with a skeleton design, the hardware is to be built in several stages outlined below, adding some functionality at every stage.
 
 ### Stages-
+
 **Stage 1: Design and testing of basic modules**
 The module set includes ALU, Register File, Program Memory and Data Memory.
 
