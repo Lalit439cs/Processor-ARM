@@ -1,7 +1,6 @@
 # Processor-ARM
-Designed hardware for implementing a processor that can execute  a subset of ARM instructions.
-In Computer Architecture course,designed Microarchitecture for a subset of ARM instructions.
-
+Designed hardware for implementing a processor that can execute  a subset of ARM instructions.</br>
+In Computer Architecture course,designed Microarchitecture for a subset of ARM instructions.</br>
 The designs are expressed in VHDL language and then simulated and synthesized. 
  
 ### ARM 32 bit-Instruction Set-
